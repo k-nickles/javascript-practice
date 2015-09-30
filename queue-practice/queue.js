@@ -1,7 +1,7 @@
 
 
 
-/* Google Interview Practice #1 - Implementing Queue*/
+/*Implementing Queue*/
 
 function Node(value){
 	this.val = value;
