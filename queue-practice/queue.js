@@ -19,7 +19,6 @@ function Queue(){
 		if(this.first == null){
 			this.first = node; 
 		}else{
-
 			n = this.first;
 			while(n.next){
 				n = n.next; 
